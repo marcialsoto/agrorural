@@ -73,3 +73,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Files pesados
+wp-content/uploads/*
+
+# configuración
+wp-config.php
